@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Marisa Behrend 
+
+# Run Buddy Inc.
