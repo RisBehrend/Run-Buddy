@@ -27,7 +27,7 @@ header {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-image: url("assests/images/hero-bg.jpg");
+  background-image: url("assests/Images/hero-bg.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
